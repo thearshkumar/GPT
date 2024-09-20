@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of a GPT (Generative Pre-trained Transformer) model, designed for efficient training and text generation. The implementation includes various modern techniques and optimizations for improved performance and scalability.
 
-**Note**: This implementation is based on a tutorial by Andrej Karpathy. We acknowledge his valuable contribution to the field of AI and express our gratitude for making this knowledge accessible.
+**Note**: This implementation is based on a tutorial by Andrej Karpathy. I acknowledge his valuable contribution to the field of AI and express my gratitude for making this knowledge accessible.
 
 ## Table of Contents
 - [Features](#features)
